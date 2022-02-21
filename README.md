@@ -1,1 +1,2 @@
-I'm Opetunde, I am a software programmer. 😊
+Hello, I'm Opetunde. 
+I am a software engineer. 😊
